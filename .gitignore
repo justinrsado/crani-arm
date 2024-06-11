@@ -1,0 +1,9 @@
+# pycache stuff
+__pycache__/**
+
+# appdata
+**/AppData
+
+# data for matlab stuff
+archive/matlab/data/**
+archive/matlab/output/**
